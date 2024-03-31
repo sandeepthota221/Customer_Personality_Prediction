@@ -62,11 +62,8 @@ This model helps to find out the Customer personality analysis.
 
 
 ## Contributors
-sandeep Thota
+Sandeep Thota
 
 ## License
 This project is licensed under the Apache-2.0 license.
 
-## Acknowledgments
-Acknowledge any libraries, data sources, or resources you used in the project.
-Feel free to customize this README to include specific details and instructions for your project. Additionally, make sure to replace "Your Name" and "Your License" with your actual name and the appropriate license informatio
