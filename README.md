@@ -34,8 +34,6 @@ Install dependencies.
 Run the application.
         python app.py
 
-Open the application in a web browser at http://localhost:5000.
-
 ## Technologies Used
 
 Python
